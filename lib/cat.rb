@@ -8,7 +8,7 @@ class Cat
     @name 
   end 
   
-  def mood =(new_mood)
-    @mood = new_mood
+  def mood = (new_mood)
+    @mood = "playful"
   end 
 end
