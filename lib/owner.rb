@@ -1,14 +1,14 @@
 class Owner
-  def initialize(name)
-    @name = name 
+  def initialize(species)
+    @species = species
     @mood = "nervous"
   end 
   
-  attr_reader :name
+  attr_reader :species
   attr_writer :mood
   
-  def name
-    @name 
+  def species
+    @species 
   end 
   
   def mood
