@@ -9,7 +9,7 @@ class Cat
   end 
   
   def mood
-    @mood = "playful"
+    @mood = "nervous"
   end 
   
 end
