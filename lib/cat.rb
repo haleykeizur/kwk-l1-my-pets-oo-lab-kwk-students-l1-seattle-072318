@@ -7,12 +7,12 @@ class Cat
   attr_reader :name
   attr_writer :mood
   
-  def name
-    @name 
-  end 
+  # def name
+  #   @name 
+  # end 
   
-  def mood
-    @mood
-  end 
+  # def mood
+  #   @mood
+  # end 
   
 end
