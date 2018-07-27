@@ -9,6 +9,6 @@ class Cat
   end 
   
   def mood = (mood)
-    @mood = new_mood
+    @mood = mood
   end 
 end
