@@ -7,4 +7,7 @@ class Cat
   def name
     @name 
   end 
+  
+  def mood
+    @mood
 end
