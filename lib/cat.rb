@@ -3,4 +3,8 @@ class Cat
     @name = name 
     @mood = "excited"
   end 
+  
+  def name
+    name 
+  end 
 end
