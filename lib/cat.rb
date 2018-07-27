@@ -8,7 +8,8 @@ class Cat
     @name 
   end 
   
-  def mood = (mood)
-    @mood = mood
+  def mood
+    @mood
   end 
+  
 end
