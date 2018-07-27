@@ -4,7 +4,8 @@ class Cat
     @mood = "nervous"
   end 
   
-  attr_reader:
+  attr_reader :name
+  attr_writer :mood
   
   def name
     @name 
