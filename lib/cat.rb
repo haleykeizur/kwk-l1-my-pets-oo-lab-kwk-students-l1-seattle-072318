@@ -1,7 +1,7 @@
 class Cat
   def initialize(name)
     @name = name 
-    @mood = "excited"
+    @mood = "nervous"
   end 
   
   def name
